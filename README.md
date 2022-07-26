@@ -1,2 +1,1 @@
-# docker-container-template
-Docker container template
+# ArchLinux Docker container

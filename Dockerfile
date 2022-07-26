@@ -1,2 +1,3 @@
-FROM baseImage/lates
-RUN command
+FROM archlinux:latest
+
+RUN pacman --sync --refresh --noconfirm python
