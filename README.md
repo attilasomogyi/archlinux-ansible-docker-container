@@ -1,1 +1,1 @@
-# ArchLinux Docker container
+# Arch Linux Python Docker container
