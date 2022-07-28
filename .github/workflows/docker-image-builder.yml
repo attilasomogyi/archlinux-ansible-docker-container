@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ env.GITHUB_REPOSITORY_OWNER }}/${{ github.repository }}:latest
+          tags: ${{ github.repository }}:latest
