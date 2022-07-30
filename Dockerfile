@@ -1,3 +1,3 @@
 FROM archlinux:latest
 
-RUN pacman --sync --refresh --sysupgrade --noconfirm python
+RUN pacman-key --init && pacman --sync --refresh --upgrade --noconfirm && pacman ---sync python
