@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/attilasomogyi/archlinux-python-docker-image/compare/v1.0.0...v1.0.1) (2022-08-01)
+
+
+### Bug Fixes
+
+* **dockerfile:** security fix remove pacman-key --init ([0f2240f](https://github.com/attilasomogyi/archlinux-python-docker-image/commit/0f2240f3424a33465faecb77a1fb7348d9e22f6d))
+
 # 1.0.0 (2022-08-01)
 
 
