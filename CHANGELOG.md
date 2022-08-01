@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/attilasomogyi/archlinux-python-docker-image/compare/v1.0.1...v1.0.2) (2022-08-01)
+
+
+### Bug Fixes
+
+* **dockerfile:** fix pacman clean noconfirm ([edec0bf](https://github.com/attilasomogyi/archlinux-python-docker-image/commit/edec0bf412f610be00739787622985fe19a40ddf))
+
 ## [1.0.1](https://github.com/attilasomogyi/archlinux-python-docker-image/compare/v1.0.0...v1.0.1) (2022-08-01)
 
 
