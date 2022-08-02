@@ -1,4 +1,4 @@
-name: "DockerHub sync readme"
+name: "Docker Hub Description sync"
 
 on:
   push:
@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Docker Hub Description
+      - name: Docker Hub Description sync
         uses: peter-evans/dockerhub-description@v3
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
