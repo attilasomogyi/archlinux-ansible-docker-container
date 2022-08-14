@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/attilasomogyi/archlinux-docker-image/compare/v1.0.2...v1.1.0) (2022-08-14)
+
+
+### Features
+
+* **core:** add ansible support ([97c50bb](https://github.com/attilasomogyi/archlinux-docker-image/commit/97c50bb05a0862c67a5227ce9d86780d8cd4d854))
+
 ## [1.0.2](https://github.com/attilasomogyi/archlinux-python-docker-image/compare/v1.0.1...v1.0.2) (2022-08-01)
 
 
